@@ -15,7 +15,7 @@ Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v
 
 1. Update to the latest version of [Tachiyomi](https://tachiyomi.org/download/)
 2. Go to Settings > Browse > Extension repos > Add
-3. Enter the following URL and accept: `https://raw.githubusercontent.com/ThePBone/tachiyomi-extensions-revived/repo/index.min.json`
+3. Enter the following URL and accept: `https://raw.githubusercontent.com/BiancaTwT22/tachiyomi-extensions-revived/repo/index.min.json`
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
 
@@ -23,7 +23,7 @@ Starting with the latest [Tachiyomi version](https://tachiyomi.org/download/) (v
 > All extensions in this repo have a custom package name. While this technically allows you to install them alongside the old removed official extensions, it is not recommended and can cause issues. Uninstall the old extensions to avoid source conflicts.
 
 ### Direct APK downloads
-You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/ThePBone/tachiyomi-extensions-revived/tree/repo/apk).
+You can also directly download the APK files in this GitHub repository in the [`repo` branch](https://github.com/BiancaTwT22/tachiyomi-extensions-revived/tree/repo/apk).
 
 After installing any unofficial extension, you must **manually** enable the extension in Tachiyomi.
 
