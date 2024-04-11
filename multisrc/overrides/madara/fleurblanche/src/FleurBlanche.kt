@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit
 
 class FleurBlanche : Madara(
     "Fleur Blanche",
-    "https://fbsquads.com",
+    "https://fbsscan.com",
     "pt-BR",
     SimpleDateFormat("dd/MM/yyyy", Locale("pt", "BR")),
 ) {
